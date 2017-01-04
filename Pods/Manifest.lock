@@ -1,0 +1,21 @@
+PODS:
+  - MBProgressHUD (1.0.0)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+
+DEPENDENCIES:
+  - MBProgressHUD (~> 1.0.0)
+  - ReactiveCocoa (~> 2.5)
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+
+PODFILE CHECKSUM: 8e909a0dc5eb95c5bcb1abca53a1dde75ffdef03
+
+COCOAPODS: 1.0.1
